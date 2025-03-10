@@ -15,5 +15,5 @@ I'm a Student currently studying BTEC Level 3 in Information Technology at Uxbri
 
 📧 business.frostydzn@gmail.com
 🔗 https://www.behance.net/fxfrosty
-
-  [Connect on LinkedIn](www.linkedin.com/in/emad-moeez-syed-119258257)  
+🔗 www.linkedin.com/in/emad-moeez-syed-119258257  
+  
