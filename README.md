@@ -10,7 +10,7 @@
 
 <br />
 
-I'm a BTEC Level 3 IT Student and a **Cybersecurity Enthusiast** passionate about turning code into utility.
+I'm a Computer Science Bachelors Student and a **Artificial Intelligence Enthusiast** passionate about turning code into utility.
 I build projects to solve real-world problems while sharpening my skills in **Security, AI, and Full-Stack Development**.
 
 [View My Portfolio](YOUR_PORTFOLIO_URL) · [Contact Me](#connect-with-me)
